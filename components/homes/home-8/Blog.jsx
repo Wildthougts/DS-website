@@ -32,7 +32,7 @@ export default function Blog() {
             `}
             >
               <div className="post-prev-2-img">
-                <Link href={`/modern-blog-single/${post.id}`}>
+                <Link href={`/`}>
                   <Image
                     src={post.imageSrc}
                     width={700}
@@ -42,9 +42,7 @@ export default function Blog() {
                 </Link>
               </div>
               <h3 className="post-prev-2-title">
-                <Link href={`/modern-blog-single/${post.id}`}>
-                  {post.title}
-                </Link>
+                <Link href={`/`}>{post.title}</Link>
               </h3>
               <div className="post-prev-2-info">{post.date}</div>
             </div>

@@ -24,14 +24,14 @@ export default function Header8({ links }) {
         <a href="#top" className="logo">
           <Image
             src="/assets/images/logowhite.svg"
-            alt="Your Company Logo"
+            alt="Darlington Sheriff"
             width={84}
             height={33}
             className="light-mode-logo"
           />
           <Image
             src="/assets/images/logowhite.svg"
-            alt="Your Company Logo"
+            alt="Darlington Sheriff"
             width={84}
             height={33}
             className="dark-mode-logo"
