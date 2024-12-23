@@ -13,10 +13,8 @@ const ParallaxContainer = dynamic(
   }
 );
 export const metadata = {
-  title:
-    "Home 8 Image Parallax2 MultiPage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
-  description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+  title: "Darlington Sheriff Portfolio Website",
+  description: "Nigeria Christain Content Creator, Filmaker & Photographer",
 };
 export default function Home8ImageParallax2MultiPage() {
   return (

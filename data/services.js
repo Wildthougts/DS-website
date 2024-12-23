@@ -129,25 +129,25 @@ export const services3 = [
 export const services4 = [
   {
     title: "Filmmaking",
-    imageSrc: "/assets/images/demo-modern/services/1.jpg",
+    imageSrc: "/assets/images/SD14.jpg",
     alt: "Image Description",
     align: "text-center",
   },
   {
     title: "Sound Design",
-    imageSrc: "/assets/images/demo-modern/services/2.jpg",
+    imageSrc: "/assets/images/SD2.jpg",
     alt: "Image Description",
     align: "text-end",
   },
   {
     title: "Photography",
-    imageSrc: "/assets/images/demo-modern/services/3.jpg",
+    imageSrc: "/assets/images/SD9.jpg",
     alt: "Image Description",
     align: "text-start",
   },
   {
     title: "Colorgrading",
-    imageSrc: "/assets/images/demo-modern/services/4.jpg",
+    imageSrc: "/assets/images/SD13.jpg",
     alt: "Image Description",
     align: "text-end",
   },
