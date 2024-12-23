@@ -206,7 +206,7 @@ export const blogs7 = [
 export const blogs8 = [
   {
     id: 20,
-    imageSrc: "/assets/images/demo-modern/blog/1.jpg",
+    imageSrc: "/assets/images/Thumb1.jpg",
     title: "5 Tips for Stunning Color Grading",
     date: "December 3, 2025",
     rellaxY: "",
@@ -215,7 +215,7 @@ export const blogs8 = [
   },
   {
     id: 21,
-    imageSrc: "/assets/images/demo-modern/blog/2.jpg",
+    imageSrc: "/assets/images/Thumb2.jpg",
     title: "The Power of Sound Design in Storytelling",
     date: "December 2, 2025",
     rellaxY: "",
@@ -224,7 +224,7 @@ export const blogs8 = [
   },
   {
     id: 22,
-    imageSrc: "/assets/images/demo-modern/blog/3.jpg",
+    imageSrc: "/assets/images/Thumbnail3.jpg",
     title: "How I fell in Love with Filmaking",
     date: "November 29, 2025",
     rellaxY: "",

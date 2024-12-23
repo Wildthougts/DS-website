@@ -431,22 +431,22 @@ export const portfolios7 = [
 export const portfolios8 = [
   {
     id: 48,
-    imageSrc: "/assets/images/demo-modern/portfolio/1.jpg",
+    imageSrc: "/assets/images/Thumbnail1.jpg",
     title: "The Fridge - A Short Film",
     categories: "YouTube, Filmaking",
     align: "text-center",
   },
   {
     id: 49,
-    imageSrc: "/assets/images/demo-modern/portfolio/2.jpg",
+    imageSrc: "/assets/images/Thumbnail3.jpg",
     title: "A Day In the Life",
     categories: "YouTube, Filmaking",
     align: "text-end",
   },
   {
     id: 50,
-    imageSrc: "/assets/images/demo-modern/portfolio/3.jpg",
-    title: "Colorgarding Presets",
+    imageSrc: "/assets/images/Thumbnail2.jpg",
+    title: "Color Presets",
     categories: "Videography, Filmmaking",
     align: "text-start",
   },
